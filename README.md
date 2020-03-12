@@ -1,2 +1,2 @@
 # mathmetical-code
-like deeptest descent and more
+Fastest Gradient Descent Algorithm.
